@@ -1,0 +1,30 @@
+body {
+    background: #f8f8f8;
+}
+
+.product_tittle {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.product_text {
+    padding-right: 20px;
+}
+
+.product_desc {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+.price{
+    font-size: 24px;
+    padding: 10px 0px 20px ;
+}
+
+.shop-img{
+    height: 550px;
+}
